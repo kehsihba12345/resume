@@ -1,6 +1,6 @@
 [![pages-deployment](https://github.com/kehsihba12345/resume/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/kehsihba12345/resume/actions/workflows/pages/pages-build-deployment)
 
-### Resume: <a href="https://kehsihba12345.github.io/resume" target="_blank">Link to Resume</a>
+### Resume: [Link to Resume](https://kehsihba12345.github.io/resume)
 
 # Abhishek Gautam - Full Stack Developer
 
