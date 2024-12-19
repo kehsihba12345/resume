@@ -1,3 +1,5 @@
+[![pages-deployment](https://github.com/kehsihba12345/resume/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/kehsihba12345/resume/actions/workflows/pages/pages-build-deployment)
+
 # Abhishek Gautam - Full Stack Developer
 
 ## Contact  
