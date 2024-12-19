@@ -1,13 +1,16 @@
+markdown_extensions:
+  - attr_list
+
 [![pages-deployment](https://github.com/kehsihba12345/resume/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/kehsihba12345/resume/actions/workflows/pages/pages-build-deployment)
 
-### Resume: [Link to Resume](kehsihba12345.github.io/resume)
+### Resume: <a href="https://kehsihba12345.github.io/resume" target="_blank">Link to Resume</a>
 
 # Abhishek Gautam - Full Stack Developer
 
 ## Contact  
 - **Email**: [abhishek.gautam642@gmail.com](mailto:abhishek.gautam642@gmail.com)  
 - **Phone**: +91-82877-94672  
-- **LinkedIn**: [Abhishek Gautam](http://www.linkedin.com/in/abhishek-g-7b0849120)  
+- **LinkedIn**: [Abhishek Gautam](http://www.linkedin.com/in/abhishek-g-7b0849120){:target="_blank"}
 - **Location**: New Delhi, India  
 
 ---
