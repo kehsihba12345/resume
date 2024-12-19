@@ -5,7 +5,7 @@
 ## Contact  
 - **Email**: [abhishek.gautam642@gmail.com](mailto:abhishek.gautam642@gmail.com)  
 - **Phone**: +91-82877-94672  
-- **LinkedIn**: [Abhishek Gautam](http://www.linkedin.com/in/abhishek-g-7b0849120){:target="_blank"}
+- **LinkedIn**: [Abhishek Gautam](http://www.linkedin.com/in/abhishek-g-7b0849120)
 - **Location**: New Delhi, India  
 
 ---
