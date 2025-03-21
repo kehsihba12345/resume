@@ -24,8 +24,6 @@ incident resolution**.
 
 *Noida, Uttar Pradesh*
 
-- 
-
 - **Project: FedEx (Aug 2021 -- Jan 2024)**
 
 > **Summary:** Implemented an enterprise-scale distributed system for
@@ -47,49 +45,33 @@ incident resolution**.
 | IDE                   | Spring Tools Suite (STS)/Eclipse, VS Code                                                           |
 | Other                 | Agility, Jira, Sonar Lint, Nexus, SonarQube, NexusIQ, Log4j, Postman, Sql-developer, Splunk, JMeter |
 
-- Designed and implemented an enterprise-scale distributed system
-  > managing **14,000+** workstations in USA.
+- Designed and implemented an enterprise-scale distributed system managing **14,000+** workstations in USA.
 
-- Developed **cloud services** on **Pivotal Cloud Foundry (PCF)** to
-  > ensure high availability and scalability.
+- Developed **cloud services** on **Pivotal Cloud Foundry (PCF)** to ensure high availability and scalability.
 
-- Built and managed **Peripheral and Certificate Management Service**
-  > and **Scheduler Service** for centralized API operations and
-  > automation.
+- Built and managed **Peripheral and Certificate Management Service**  and **Scheduler Service** for centralized API operations and automation.
 
-- Developed **Spring Boot Service** as **Windows Services** to utilize
-  > peripheral devices such as receipt and label printers, barcode
-  > scanners, payment terminals, and weighing scales via exposed
-  > **Rest-Apis** and **WebSocket**.
+- Developed **Spring Boot Service** as **Windows Services** to utilize peripheral devices such as receipt and label printers, barcode scanners, payment terminals, and weighing scales via exposed **Rest-Apis** and **WebSocket**.
+  
+- Created **Angular-based Device Tester Application** for comprehensive peripheral testing.
 
-- Created **Angular-based Device Tester Application** for comprehensive
-  > peripheral testing.
+- Developed a **Java Swing-based diagnostic utility** for direct device testing.
 
-- Developed a **Java Swing-based diagnostic utility** for direct device
-  > testing.
-
-- Designed and implemented **specialized installers** for efficient
-  > deployment of device control components, SSL certificate management,
-  > and credential distribution.
+- Designed and implemented **specialized installers** for efficient deployment of device control components, SSL certificate management, and credential distribution.
 
 - Ensured **95%+ code coverage** using **Mockito and Power Mockito**.
 
-- Established a **CI/CD pipeline** using **Jenkins, GitHub, SonarQube,
-  > NexusIQ** for code validation and security checks and **Nexus** for
-  > repository management.
+- Established a **CI/CD pipeline** using **Jenkins, GitHub, SonarQube, NexusIQ** for code validation and security checks and **Nexus** for repository management.
 
 - Integrated **Oracle database** for reliable and secure data storage.
 
 - Secured API communication using **SSL/TLS protocols**.
 
-- **Performed various manual** and **automation testing** to identify
-  > and resolve issues efficiently.
+- **Performed various manual** and **automation testing** to identify and resolve issues efficiently.
 
-- **Reviewed code, raised defects,** and **proposed solutions** to
-  > enhance software quality and maintainability.
+- **Reviewed code, raised defects,** and **proposed solutions** to enhance software quality and maintainability.
 
-- **Resolved multiple production incidents**, ensuring minimal downtime
-  > and optimal system performance.
+- **Resolved multiple production incidents**, ensuring minimal downtime and optimal system performance.
 
 <!-- -->
 
@@ -110,15 +92,11 @@ incident resolution**.
 | IDE                   | IntelliJ                                       |
 | Other                 | Rally, Sonar Lint, Nexus, Log4j, Sql-developer |
 
-- Implemented robust authentication and data security protocols to
-  > protect sensitive user information.
+- Implemented robust authentication and data security protocols to protect sensitive user information.
 
-- Engineered secure **username** and **password** authentication
-  > framework with encryption for credential protection.
+- Engineered secure **username** and **password** authentication framework with encryption for credential protection.
 
-- Performed comprehensive penetration testing and security vulnerability
-  > assessments, achieving all **PCI** compliance with **corporate
-  > security standards**.
+- Performed comprehensive penetration testing and security vulnerability assessments, achieving all **PCI** compliance with **corporate security standards**.
 
 **EDUCATION**
 
@@ -132,17 +110,12 @@ Bachelor of Engineering (Computer Science)
 
 **SKILLS**
 
-- **Technical Skills:** Java 8, Spring Boot, Python, Kotlin, React,
-  Angular, Next.js, SQL, Oracle, WebSocket, JPOS, SSL/TLS, Keystore
-  Management
+- **Technical Skills:** Java 8, Spring Boot, Python, Kotlin, React, Angular, Next.js, SQL, Oracle, WebSocket, JPOS, SSL/TLS, Keystore Management
 
-- **Development Tools:** GitHub, BitBucket, GitLab, Jenkins, Nexus,
-  SonarQube, NexusIQ, Splunk, Mockito
+- **Development Tools:** GitHub, BitBucket, GitLab, Jenkins, Nexus, SonarQube, NexusIQ, Splunk, Mockito
 
-- **Cloud & Deployment:** Pivotal Cloud Foundry (PCF), CI/CD, Docker,
-  Windows Services Development
+- **Cloud & Deployment:** Pivotal Cloud Foundry (PCF), CI/CD, Docker, Windows Services Development
 
-- **Soft Skills:** Communication, Critical thinking, Teamwork, Meeting
-  deadlines, Organized
+- **Soft Skills:** Communication, Critical thinking, Teamwork, Meeting deadlines, Organized
 
 - **Languages:** English, Hindi
