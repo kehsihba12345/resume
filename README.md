@@ -1,75 +1,148 @@
 [![pages-deployment](https://github.com/kehsihba12345/resume/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/kehsihba12345/resume/actions/workflows/pages/pages-build-deployment)
 
-# Abhishek Gautam - Full Stack Developer
+**Abhishek Gautam**
 
-## Contact  
-- **Email**: [abhishek.gautam642@gmail.com](mailto:abhishek.gautam642@gmail.com)  
-- **Phone**: +91-82877-94672  
-- **LinkedIn**: [Abhishek Gautam](http://www.linkedin.com/in/abhishek-g-7b0849120)
-- **Location**: New Delhi, India  
+abhishek.gautam642@gmail.com ❖ +91-82877-94672 ❖ New Delhi, India
 
----
+**SUMMARY**
 
-## About Me  
+Results-driven Full-Stack Developer with extensive experience in backend
+technologies such as **Spring Boot, Java, and SQL**, and frontend
+frameworks like **Angular**. Proven ability to **develop
+enterprise-scale distributed systems, ensuring high performance,
+security, and scalability**. Strong expertise in **cloud services, API
+development, automation, testing, installer development, and production
+incident resolution**.
 
-Full-Stack Developer with proficiency in backend technologies like **Spring Boot** and **SQL**, as well as frontend frameworks such as **React**, **Next.js**, and **Angular**. Demonstrated experience in developing enterprise-grade web applications, APIs, and distributed systems.
+**WORK EXPERIENCE**
 
----
+**Infogain**
 
-## Key Skills  
+*Software Engineer*
 
-### Technical Skills  
-- **Backend**: Spring Boot, Java 8, WebSocket, JPOS, Mockito  
-- **Frontend**: Angular, React, Next.js  
-- **Database**: Oracle  
-- **Tools**: GitHub, Jenkins, SonarQube, Nexus, NexusIQ, Splunk  
-- **Security**: SSL/TLS Certificates, Keystore Management  
+**Apr. 2021 -- Present**
 
-### Soft Skills  
-- Communication  
-- Teamwork  
-- Critical Thinking  
-- Meeting Deadlines  
+*Noida, Uttar Pradesh*
 
----
+- 
 
-## Experience  
+- **Project: FedEx (Aug 2021 -- Jan 2024)**
 
-### Full Stack Developer  
-**Infogain** (Aug 2021 – Present)  
-**Client**: FedEx Corporation  
+> **Summary:** Implemented an enterprise-scale distributed system for
+> managing peripheral devices across 14,000+ workstations in the USA.
+> The solution architecture integrates four cloud services, two Windows
+> services, a robust Angular-based Device Tester application, and a Java
+> Swing-based diagnostic utility. The system ensures seamless  
+> device and certificate management with 95%+ code coverage, high
+> reliability, and centralized monitoring.
 
-#### Key Contributions  
+| Language              | Java 8, Sql, Html, Css, Angular, Bash                                                               |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| Development framework | Spring Boot, JPA, Hibernate, Angular, Oracle, Swing                                                 |
+| Version control       | GitHub, GitLab                                                                                      |
+| API documentation     | Swagger                                                                                             |
+| Test Framework        | Junit, Mockito, Power Mockito                                                                       |
+| Deployment tools      | Jenkins, GitHub Actions                                                                             |
+| Build tools           | Maven, Yarn                                                                                         |
+| IDE                   | Spring Tools Suite (STS)/Eclipse, VS Code                                                           |
+| Other                 | Agility, Jira, Sonar Lint, Nexus, SonarQube, NexusIQ, Log4j, Postman, Sql-developer, Splunk, JMeter |
 
-**Cloud Services Development**  
-1. Designed and deployed cloud services on **Pivotal Cloud Foundry (PCF)** for high availability and scalability.  
-2. Developed the **Peripheral Management Service** for centralized API operations and the **Scheduler Service** for task automation.  
-3. Implemented the **Certificate Management Service** and **Scheduler** for SSL certificate lifecycle operations.  
+- Designed and implemented an enterprise-scale distributed system
+  > managing **14,000+** workstations in USA.
 
-**Windows Services Development**  
-1. Built the **Peripheral Service** to manage local device operations, including receipt printers, barcode scanners, and weighing scales.  
-2. Created the **Certificate Management Client Service** for secure certificate installation and updates.  
+- Developed **cloud services** on **Pivotal Cloud Foundry (PCF)** to
+  > ensure high availability and scalability.
 
-**Installer Development**  
-1. Developed three specialized installers:  
-   - **Peripheral Service Installer** for deploying device control components.  
-   - **Certificate Client Installer** for SSL management deployment.  
-   - **Peripheral Credentials Installer** for secure credential distribution.  
+- Built and managed **Peripheral and Certificate Management Service**
+  > and **Scheduler Service** for centralized API operations and
+  > automation.
 
-**UI Applications**  
-1. Designed an **Angular-based Device Tester Application** for testing peripherals, standardized via a modular **Integration Layer**.  
-2. Developed a **Java Swing-based diagnostic utility** for direct device troubleshooting.  
+- Developed **Spring Boot Service** as **Windows Services** to utilize
+  > peripheral devices such as receipt and label printers, barcode
+  > scanners, payment terminals, and weighing scales via exposed
+  > **Rest-Apis** and **WebSocket**.
 
-#### Technical Achievements  
-- Achieved **95%+ code coverage** with Mockito and PowerMockito frameworks.  
-- Ensured secure API communication using **SSL/TLS protocols** and WebSocket for real-time updates.  
-- Integrated Oracle database for data persistence.  
-- Established a CI/CD pipeline with **Jenkins** and **GitHub**, validated code quality and vulnerabilities using **SonarQube**, **Nexus IQ**, and **GitHub Security CodeQL**.  
+- Created **Angular-based Device Tester Application** for comprehensive
+  > peripheral testing.
 
----
+- Developed a **Java Swing-based diagnostic utility** for direct device
+  > testing.
 
-## Education  
+- Designed and implemented **specialized installers** for efficient
+  > deployment of device control components, SSL certificate management,
+  > and credential distribution.
 
-**Bachelor of Engineering (Computer Science)**  
-**Amity University** (2017 – 2021)  
-Sector 125, Noida, Uttar Pradesh, India  
+- Ensured **95%+ code coverage** using **Mockito and Power Mockito**.
+
+- Established a **CI/CD pipeline** using **Jenkins, GitHub, SonarQube,
+  > NexusIQ** for code validation and security checks and **Nexus** for
+  > repository management.
+
+- Integrated **Oracle database** for reliable and secure data storage.
+
+- Secured API communication using **SSL/TLS protocols**.
+
+- **Performed various manual** and **automation testing** to identify
+  > and resolve issues efficiently.
+
+- **Reviewed code, raised defects,** and **proposed solutions** to
+  > enhance software quality and maintainability.
+
+- **Resolved multiple production incidents**, ensuring minimal downtime
+  > and optimal system performance.
+
+<!-- -->
+
+- **Project: Sabre (Feb 2024 -Mar 2024)**
+
+> **Summary:** A security-focused project aimed at strengthening
+> authentication and compliance measures in enterprise applications.
+> Designed and implemented secure access protocols, ensuring data
+> protection and adherence to industry security standards
+
+| Language              | Java 8                                         |
+|-----------------------|------------------------------------------------|
+| Development framework | Struts                                         |
+| Version control       | BitBucket                                      |
+| Test Framework        | Junit, EasyMock                                |
+| Deployment tools      | Jenkins                                        |
+| Build tools           | Maven                                          |
+| IDE                   | IntelliJ                                       |
+| Other                 | Rally, Sonar Lint, Nexus, Log4j, Sql-developer |
+
+- Implemented robust authentication and data security protocols to
+  > protect sensitive user information.
+
+- Engineered secure **username** and **password** authentication
+  > framework with encryption for credential protection.
+
+- Performed comprehensive penetration testing and security vulnerability
+  > assessments, achieving all **PCI** compliance with **corporate
+  > security standards**.
+
+**EDUCATION**
+
+**Amity University**
+
+Bachelor of Engineering (Computer Science)
+
+**May 2021**
+
+*Noida, Uttar Pradesh*
+
+**SKILLS**
+
+- **Technical Skills:** Java 8, Spring Boot, Python, Kotlin, React,
+  Angular, Next.js, SQL, Oracle, WebSocket, JPOS, SSL/TLS, Keystore
+  Management
+
+- **Development Tools:** GitHub, BitBucket, GitLab, Jenkins, Nexus,
+  SonarQube, NexusIQ, Splunk, Mockito
+
+- **Cloud & Deployment:** Pivotal Cloud Foundry (PCF), CI/CD, Docker,
+  Windows Services Development
+
+- **Soft Skills:** Communication, Critical thinking, Teamwork, Meeting
+  deadlines, Organized
+
+- **Languages:** English, Hindi
